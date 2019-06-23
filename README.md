@@ -9,7 +9,7 @@ string 		= check is searched item is a match
 *string 	= check is searched item ends with string
 string* 	= check is searched item starts with string
 *string* 	= check is searched item contains with string
--x 			= search parameter
+-x              = search parameter
 ```
 
 Script will return ``true`` or ``false`` if 2 strings are matching based on defined criteria.
