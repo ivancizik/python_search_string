@@ -1,4 +1,4 @@
-# Python sample sting manipulation
+# Python sample string manipulation
 
 Using string manipulation in Python to to compare 2 strings, this method can be used to implement search functionality in some Python application or script.  
 
