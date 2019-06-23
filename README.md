@@ -13,3 +13,6 @@ string* 	= check is searched item starts with string
 ```
 
 Script will return ``true`` or ``false`` if 2 strings are matching based on defined criteria.
+  
+  
+  Used in https://github.com/love2spooge/python_xl_viewer
