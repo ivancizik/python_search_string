@@ -1,4 +1,4 @@
-# https://github.com/love2spooge/python_search_string
+# https://github.com/ivancizik/python_search_string
 
 search_term = "The quick brown fox jumps over the lazy dog"
 
